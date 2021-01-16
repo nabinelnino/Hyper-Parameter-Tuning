@@ -13,7 +13,7 @@
 - Matplotlib
 
 You will need an IPython notebook to try this on your project or to follow along.
-<b> If you install pip, then you can install the dependencies by running pip3 install -<name of dependencies></b>
+<b> If you install pip, then you can install the dependencies by running pip3 install - name of dependencies</b>
 
 ## Concepts
 ### Pre-Process Data
